@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">CurrentLocationAndroid</string>
+    <string name="maps_key">AIzaSyDmtXVg2suy8ATtbOIsdYgNPf_N4qkUTMU</string>
 </resources>
